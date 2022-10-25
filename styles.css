@@ -1,0 +1,54 @@
+.img1 {
+  width: 300px;
+  height: 300px;
+  /* position: relative; */
+}
+.img2 {
+  width: 100px;
+  height: 100px;
+}
+.img3 {
+  width: 100px;
+  height: 100px;
+}
+.img4 {
+  width: 100px;
+  height: 100px;
+}
+.one {
+  /* width: 400px; */
+  height: 350px;
+  background-color: #F80E06;
+  position: relative;
+  bottom: 5px;
+}
+.two {
+  background-color: #F87206;
+  position: relative;
+  bottom: 27px;
+}
+.three {
+ background-color: #F8C706;
+ position: relative;
+ bottom: 27px;
+}
+.four {
+background-color: #06F82B;
+position: relative;
+bottom: 27px;
+}
+.five {
+background-color: #06CDF8;
+position: relative;
+bottom: 48px;
+}
+.six {
+background-color: #0630F8;
+position: relative;
+bottom: 48px;
+}
+.seven {
+  background-color: #7E06F8;
+  position: relative;
+  bottom: 48px;
+}
